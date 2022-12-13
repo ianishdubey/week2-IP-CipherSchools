@@ -1,0 +1,18 @@
+h1{
+    border: 4px dotted brown;
+    /* padding-left: 40px;
+    padding-top: 80px;
+    padding-bottom: 20px;
+    padding-right: 40px;
+    padding: 40px;
+    padding: 20px 40px; */
+    /* padding: 20px 30px 40px 50px; */
+    padding: 10px;
+    /* border: 20px; */
+    margin: 100px;
+    width: 500px;
+    margin: 20px auto;
+    text-align: center;
+    background: lightblue;
+
+}
