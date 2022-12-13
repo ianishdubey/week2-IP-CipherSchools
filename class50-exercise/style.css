@@ -1,0 +1,24 @@
+.container{
+    width: 14000px;
+    border: 2px solid red;
+    margin: 0 auto;
+}
+
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h1{
+    background: #cdcdcd;
+    text-align: center;
+    padding: 15px 0px;
+}
+
+section.about-me, section.about-lilly{
+    border: 2px solid #666;
+    padding: 10px;
+}
+
+.about-me{
+    margin-bottom: 40px;
+}
